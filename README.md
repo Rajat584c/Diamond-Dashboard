@@ -1,4 +1,4 @@
-The purpose of this project was to build an interactive and insightful dashboard using Microsoft Excel to analyze diamond sales data.
+The purpose of this project was to build an interactive and insightful dashboard using Microsoft Excel to analyze diamond sales data using descriptive and diagnostic analytics.
 We aimed to uncover patterns across price, weight, clarity, and other physical characteristics of diamonds, helping stakeholders in the diamond
 retail industry make better inventory and pricing decisions.
 
